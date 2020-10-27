@@ -1,0 +1,43 @@
+
+
+ul{
+	width:100%;
+}
+
+ul li{
+	display:inline-block;
+	list-style-type:none;
+	padding:2%;
+	padding-left:11%;
+	font-size:14px;
+}
+
+* {
+	font-family:'Roboto', sans-serif;
+	color:black;
+}
+
+body{
+	margin:0 auto;
+	background-color:#F96853;
+}
+
+h3{
+	color:#f96853;
+}
+
+h1{
+	padding:10%;
+}
+
+#description{
+	
+	float:right;
+	margin:1%;
+	width:40%;
+	font-size:14px;
+	line-height:40px;
+
+}
+
+#description
