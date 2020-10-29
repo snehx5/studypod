@@ -40,4 +40,23 @@ h1{
 
 }
 
-#description
+#careersheader{
+	padding-left:5%;
+}
+
+#careers1{
+	padding-left:5%;
+	margin:4%;
+	display:none;
+}
+
+#careers2{
+	padding-left:5%;
+	margin:4%;
+	display:none;
+}
+
+#jobs h4{
+	margin:2%;
+	padding-left:4%;
+}
