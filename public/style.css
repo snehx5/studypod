@@ -1,4 +1,8 @@
 
+body{
+	margin:0 auto;
+	background-color:#F96853;
+}
 
 #header{
 	width:100%;
@@ -9,11 +13,11 @@
 	
 }
 
-ul{
+.navigation{
 	width:100%;
 }
 
-ul li{
+.navigation li{
 	display:inline-block;
 	list-style-type:none;
 	padding:2%;
@@ -28,10 +32,7 @@ ul li{
 	
 }
 
-body{
-	margin:0 auto;
-	background-color:#F96853;
-}
+
 
 h3{
 	color:#f96853;
@@ -44,8 +45,9 @@ h1{
 
 
 
-#careersheader{
-	padding-left:5%;
+#hiringheader{
+	padding:5%;
+
 }
 
 #careers1{
@@ -93,4 +95,23 @@ h1{
 
 #benefits p{
 	font-size:24px;
+}
+
+#benefits-list li{
+	display:inline-block;
+	list-style-type:none;
+	
+	font-size:24px;
+	color:black;
+
+}
+
+#content{
+	margin-top:30%;
+}
+
+footer{
+	margin-top:10%;
+	height:300px;
+	background-color:black;
 }
