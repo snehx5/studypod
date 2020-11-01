@@ -1,5 +1,14 @@
 
 
+#header{
+	width:100%;
+	height:130px;
+	position:fixed;
+	background-color:white;
+
+	
+}
+
 ul{
 	width:100%;
 }
@@ -10,11 +19,13 @@ ul li{
 	padding:2%;
 	padding-left:11%;
 	font-size:14px;
+	color:black;
+
 }
 
 * {
 	font-family:'Roboto', sans-serif;
-	color:black;
+	
 }
 
 body{
@@ -29,6 +40,7 @@ h3{
 h1{
 	padding:10%;
 }
+
 
 
 
