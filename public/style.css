@@ -30,15 +30,7 @@ h1{
 	padding:10%;
 }
 
-#description{
-	
-	float:right;
-	margin:1%;
-	width:40%;
-	font-size:14px;
-	line-height:40px;
 
-}
 
 #careersheader{
 	padding-left:5%;
@@ -59,4 +51,34 @@ h1{
 #jobs h4{
 	margin:2%;
 	padding-left:4%;
+}
+
+#why{
+
+	margin-top:5%;
+	line-height:70px;
+	width:80%;
+}
+
+#why h3{
+	font-size:32px;
+}
+
+#why p{
+	font-size:24px;
+}
+
+#benefits{
+
+	margin-top:5%;
+	line-height:70px;
+	width:80%;
+}
+
+#benefits h3{
+	font-size:32px;
+}
+
+#benefits p{
+	font-size:24px;
 }
