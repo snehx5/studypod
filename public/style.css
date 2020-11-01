@@ -85,7 +85,7 @@ h1{
 }
 
 #why p{
-	font-size:24px;
+	font-size:20px;
 }
 
 #benefits{
@@ -111,20 +111,24 @@ h1{
 }
 
 #productfeatures p{
-	font-size:24px;
+	font-size:20px;
 }
 
 #benefits p{
-	font-size:24px;
+	font-size:20px;
 }
 
 #benefits-list li{
 	display:inline-block;
 	list-style-type:none;
 	
-	font-size:24px;
+	font-size:20px;
 	color:black;
 
+}
+
+.list-group-item{
+	font-size:20px;
 }
 
 #content{
